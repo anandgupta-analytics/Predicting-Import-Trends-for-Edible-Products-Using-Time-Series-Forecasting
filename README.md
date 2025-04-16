@@ -82,6 +82,6 @@ Forecasting U.S. edible product import values & volumes using Exponential Smooth
 **View full project report and forecast model:**  
 ➡️ https://github.com/anandgupta-analytics/Predicting-Import-Trends-for-Edible-Products-Using-Time-Series-Forecasting
 
-![Forecast Preview](https://raw.githubusercontent.com/anandgupta-analytics/Predicting-Import-Trends-for-Edible-Products-Using-Time-Series-Forecasting/main/assets/forecast-thumbnail.png)
+![(https://github.com/anandgupta-analytics/Predicting-Import-Trends-for-Edible-Products-Using-Time-Series-Forecasting/blob/main/Thumbnail.png)](https://raw.githubusercontent.com/anandgupta-analytics/Predicting-Import-Trends-for-Edible-Products-Using-Time-Series-Forecasting/main/assets/forecast-thumbnail.png)
 
 MS in Business Analytics – University of Massachusetts Amherst
