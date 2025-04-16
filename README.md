@@ -73,4 +73,15 @@ Support data-backed sustainability goals through waste reduction
 
 👨‍💻 Author
 Anand Gupta
+
+
+# 📊 Predicting Food Import Trends (2023)
+
+Forecasting U.S. edible product import values & volumes using Exponential Smoothing & Moving Average techniques.  
+
+**View full project report and forecast model:**  
+➡️ https://github.com/anandgupta-analytics/Predicting-Import-Trends-for-Edible-Products-Using-Time-Series-Forecasting
+
+![Forecast Preview](https://raw.githubusercontent.com/anandgupta-analytics/Predicting-Import-Trends-for-Edible-Products-Using-Time-Series-Forecasting/main/assets/forecast-thumbnail.png)
+
 MS in Business Analytics – University of Massachusetts Amherst
